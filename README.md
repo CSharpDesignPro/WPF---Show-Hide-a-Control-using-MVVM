@@ -1,4 +1,4 @@
-# WPF - Show / Hide a Panel using MVVM
+# WPF - Show / Hide a Control using MVVM
 
 YouTube Video Tutorial Link : https://youtu.be/ev9dDfI6KHs
 
